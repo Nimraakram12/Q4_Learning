@@ -23,3 +23,13 @@ The Medium blog post covers:
 - **JSON Serialization**: Converting models to/from JSON.
 - **FastAPI Integration**: Building a chatbot API with Pydantic models.
 - **Performance Tips**: Optimizing Pydantic with Cython and validators
+
+ # TASK: 4
+ # API PARAMETERS
+  
+The application is built using FastAPI, a modern Python web framework for building APIs with type hints and automatic documentation. It uses the Path and Query utilities from FastAPI for parameter validation and the Optional type from the typing module for optional parameters.
+
+# TASK: 5
+# DEPENDENCY INJECTION
+
+This FastAPI application demonstrates dependency injection, query parameters, path parameters, and class-based dependencies through a set of endpoints. It includes functionality for retrieving goals, handling user login, performing calculations, and fetching blog or user data.
