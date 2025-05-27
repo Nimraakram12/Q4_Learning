@@ -46,3 +46,7 @@ This FastAPI application demonstrates dependency injection, query parameters, pa
 4.) What are generics in Python? Why we use it for TContext?
 # Here is a medium blog on answering this questions.
 https://medium.com/@nimra.akram123451/smarter-tasks-less-effort-acb420ef3703
+
+# TASK: 8 
+# What are LLMS?
+Here is a medium blog link which have a full detail https://medium.com/@nimra.akram123451/ai-that-speaks-your-language-4cd5168c584c
